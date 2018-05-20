@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest
+END
+vl_test_kdtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_kdtree.m
+END
+vl_test_kmeans.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_kmeans.m
+END
+vl_assert_exception.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_assert_exception.m
+END
+vl_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test.m
+END
+vl_test_homkermap.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_homkermap.m
+END
+vl_test_imdisttf.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_imdisttf.m
+END
+vl_assert_equal.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_assert_equal.m
+END
+vl_test_slic.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_slic.m
+END
+vl_test_imwbackward.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_imwbackward.m
+END
+vl_test_imintegral.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_imintegral.m
+END
+vl_test_alldist.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_alldist.m
+END
+vl_test_binsum.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_binsum.m
+END
+vl_test_binsearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_binsearch.m
+END
+vl_test_imsmooth.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_imsmooth.m
+END
+vl_test_pegasos.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_pegasos.m
+END
+vl_test_twister.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_twister.m
+END
+vl_test_whistc.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_whistc.m
+END
+vl_test_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_init.m
+END
+vl_test_colsubset.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_colsubset.m
+END
+vl_test_argparse.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_argparse.m
+END
+vl_test_imarray.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_imarray.m
+END
+vl_test_sift.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_sift.m
+END
+vl_test_alphanum.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_alphanum.m
+END
+vl_assert_almost_equal.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_assert_almost_equal.m
+END
+vl_test_dsift.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_dsift.m
+END
+vl_test_grad.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_grad.m
+END
+vl_test_lbp.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_lbp.m
+END
+vl_test_phow.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/xtest/vl_test_phow.m
+END

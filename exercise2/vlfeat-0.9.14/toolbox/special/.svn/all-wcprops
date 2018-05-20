@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/special
+END
+vl_gaussian.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/special/vl_gaussian.m
+END
+vl_sigmoid.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/special/vl_sigmoid.m
+END
+vl_dgaussian.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/special/vl_dgaussian.m
+END
+vl_dsigmoid.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/special/vl_dsigmoid.m
+END
+vl_ddgaussian.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/special/vl_ddgaussian.m
+END
+vl_rcos.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/D2/hlcv14/!svn/ver/2/Exercise/ex4/exercise4/vlfeat-0.9.14/toolbox/special/vl_rcos.m
+END
